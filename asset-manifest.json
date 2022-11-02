@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/babakings/static/css/main.5ab60800.css",
+    "main.js": "/babakings/static/js/main.5bcdea35.js",
+    "index.html": "/babakings/index.html",
+    "main.5ab60800.css.map": "/babakings/static/css/main.5ab60800.css.map",
+    "main.5bcdea35.js.map": "/babakings/static/js/main.5bcdea35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab60800.css",
+    "static/js/main.5bcdea35.js"
+  ]
+}
