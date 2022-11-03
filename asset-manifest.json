@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/babakings/static/css/main.bfe967e6.css",
-    "main.js": "/babakings/static/js/main.58b6427f.js",
+    "main.js": "/babakings/static/js/main.51024347.js",
     "static/js/787.c271e200.chunk.js": "/babakings/static/js/787.c271e200.chunk.js",
     "index.html": "/babakings/index.html",
     "main.bfe967e6.css.map": "/babakings/static/css/main.bfe967e6.css.map",
-    "main.58b6427f.js.map": "/babakings/static/js/main.58b6427f.js.map",
+    "main.51024347.js.map": "/babakings/static/js/main.51024347.js.map",
     "787.c271e200.chunk.js.map": "/babakings/static/js/787.c271e200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfe967e6.css",
-    "static/js/main.58b6427f.js"
+    "static/js/main.51024347.js"
   ]
 }
