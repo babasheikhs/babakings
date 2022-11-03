@@ -13,17 +13,49 @@
   }
 }
 
-.Sam{height: 20px;}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: black;
+  height: 10%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+main p{
+  text-align: left;
+  margin: 0 10% 0 10%;
+  font-size: 1.4em;
+}
+
+.App-header p:first-child{
+  font-size: calc(30px + 2vmin)
+}
+
+.App-header p:nth-child(2){
+  color: blue
+}
+
+.NavApp{
+  min-height: 20vh;
+  display: flex;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+}
+
+.nav-item{
+text-decoration: none;
+}
+
+.nav-item:hover{
+  color:blue;
+  cursor: pointer;
+}
+
+.nav-item:active{
+  color: red;
 }
 
 .App-link {
