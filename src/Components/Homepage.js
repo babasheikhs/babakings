@@ -19,8 +19,7 @@ function Homepage(props){
     <h2>
       Survey
     </h2>
-
-    <img src={img+props.surveyimg} alt={props.surveyalt}/>
+    <img src="../Assets/Image/surveyimg.jpg" alt={props.surveyalt}/>
 
     <p>
     Surveys is all about answering questions about a product, service or anything
@@ -33,8 +32,8 @@ function Homepage(props){
     <h2>
   Cryptocurrency
     </h2>
-
-    <img src={img+props.cryptoimg} alt={props.cryptoalt}/>
+<br/>
+    <img src="../Assets/Image/cryptoimg.jpg" alt={props.cryptoalt}/>
 
       <p>
       <br/>
@@ -52,7 +51,7 @@ function Homepage(props){
     Games
     </h2>
 
-    <img src={img+props.gamesimg} alt={props.gamesalt}/>
+    <img src="../Assets/Image/gamesimg.jpg" alt={props.gamesalt}/>
 
     <p>
     <br/>

@@ -15,7 +15,7 @@ function App() {
       <Head/>
       </header>
       <nav className="NavApp">
-      <Link to="/homepage" className="nav-item">Homepage</Link>
+      <Link to="/" className="nav-item">Homepage</Link>
       <Link to="/survey" className="nav-item">Survey</Link>
       <Link to="/crypto" className="nav-item">Crypto</Link>
       <Link to="/games" className="nav-item">Games</Link>
@@ -24,7 +24,7 @@ function App() {
       </nav>
       <main>
       <Routes>
-          <Route path="/homepage" element={<Homepage surveyimg="surveyimg.jpg" surveyalt="survey image"
+          <Route path="/" element={<Homepage surveyimg="surveyimg.jpg" surveyalt="survey image"
           gamesimg="gamesimg.jpg" gamesalt="games image" cryptoimg="cryptoimg.jpg"
           cryptoalt="crypto Image"/>}></Route>
           <Route path="/survey" element={<Survey />}></Route>
